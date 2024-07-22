@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/suno-extender/static/css/main.bd4c3c79.css",
-    "main.js": "/suno-extender/static/js/main.7a1a9931.js",
+    "main.css": "/suno-extender/static/css/main.b4005909.css",
+    "main.js": "/suno-extender/static/js/main.83cbe5b8.js",
     "static/js/453.fc3d367f.chunk.js": "/suno-extender/static/js/453.fc3d367f.chunk.js",
+    "static/media/suno-extender-background.jpg": "/suno-extender/static/media/suno-extender-background.e0503f5e56270942cec9.jpg",
     "index.html": "/suno-extender/index.html",
-    "main.bd4c3c79.css.map": "/suno-extender/static/css/main.bd4c3c79.css.map",
-    "main.7a1a9931.js.map": "/suno-extender/static/js/main.7a1a9931.js.map",
+    "main.b4005909.css.map": "/suno-extender/static/css/main.b4005909.css.map",
+    "main.83cbe5b8.js.map": "/suno-extender/static/js/main.83cbe5b8.js.map",
     "453.fc3d367f.chunk.js.map": "/suno-extender/static/js/453.fc3d367f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd4c3c79.css",
-    "static/js/main.7a1a9931.js"
+    "static/css/main.b4005909.css",
+    "static/js/main.83cbe5b8.js"
   ]
 }
