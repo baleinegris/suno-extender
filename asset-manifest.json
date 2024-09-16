@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/suno-extender/static/css/main.1e4d049a.css",
-    "main.js": "/suno-extender/static/js/main.13e78779.js",
+    "main.js": "/suno-extender/static/js/main.2f527973.js",
     "static/js/453.5fa201f8.chunk.js": "/suno-extender/static/js/453.5fa201f8.chunk.js",
     "static/media/suno-extender-background.jpg": "/suno-extender/static/media/suno-extender-background.e0503f5e56270942cec9.jpg",
     "static/media/menu-icon.png": "/suno-extender/static/media/menu-icon.fe22ac2c781b450d8b74.png",
     "index.html": "/suno-extender/index.html",
     "main.1e4d049a.css.map": "/suno-extender/static/css/main.1e4d049a.css.map",
-    "main.13e78779.js.map": "/suno-extender/static/js/main.13e78779.js.map",
+    "main.2f527973.js.map": "/suno-extender/static/js/main.2f527973.js.map",
     "453.5fa201f8.chunk.js.map": "/suno-extender/static/js/453.5fa201f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e4d049a.css",
-    "static/js/main.13e78779.js"
+    "static/js/main.2f527973.js"
   ]
 }
